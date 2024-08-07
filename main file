@@ -1,0 +1,89 @@
+{
+  "personal_information": {
+    "name": "NAGENDRA KUMAR OJHA",
+    "location": "Jaipur, RAJ 302012"
+  },
+  "contact_details": {
+    "phone": "7742543471",
+    "email": "nagendraojha3152000@gmail.com",
+    "linkedin": "linkedin.com/in/nagendra ojha",
+    "github": "github.com/nagendraojha"
+  },
+  "experience": [
+    {
+      "title": "Internship",
+      "company": "Solitaire Infosys",
+      "location": "Chandigarh, IN",
+      "dates": "Feb 23 - Jun 23",
+      "description": "Data Science and AI with python. Gained hands-on experience in data analysis, MySQL and Python. Assisted with various machine learning algorithms like regression, classification, Clustering. Gained Knowledge in data visualization using libraries like Matplotlib, Seaborn, and Plotly."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Movie Recommendations System",
+      "domain": "Machine Learning",
+      "programming_languages": ["python"],
+      "description": "Built a movie recommender system in Python using cosine distance to suggest similar movies to users. Developed in a way of suggesting similar movies to a user."
+    },
+    {
+      "title": "Market Analysis (Power BI)",
+      "description": "Analyzed market data to pinpoint best-selling products, top profits, and peak periods. Automated market analysis using Power BI, leveraging functions and DAX Query to clean and manipulate vast datasets, revealing hidden trends and informing strategic decisions for revenue growth."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Getting and cleaning data",
+      "platform": "Coursera",
+      "date": "April 2024"
+    },
+    {
+      "title": "Introduction to Big Data",
+      "platform": "Coursera",
+      "date": "April 2024"
+    },
+    {
+      "title": "Data Science and Al with Python",
+      "platform": "Solitaire Infosys",
+      "date": "Jun 2023"
+    },
+    {
+      "title": "My SQL Course",
+      "platform": "Udemy",
+      "date": "Feb 2023"
+    },
+    {
+      "title": "Python Course",
+      "platform": "Great Learning",
+      "date": "Aug 2022"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "R"],
+    "data_management": ["MY SQL"],
+    "visualization_tools": ["MS-Excel", "Power BI"]
+  },
+  "education": [
+    {
+      "degree": "MTech in Data Science & Analytics",
+      "university": "Lovely Professional University",
+      "location": "Jalandhar, Punjab",
+      "cgpa": "8.60",
+      "dates": "2023-Present"
+    },
+    {
+      "degree": "B.Tech in Computer Science",
+      "university": "Sri Sai College of Engineering and Technology",
+      "location": "Pathankot, Punjab",
+      "cgpa": "7.80",
+      "dates": "2019-2023"
+    },
+    {
+      "degree": "Higher Secondary",
+      "board": "Kendriya Vidyalaya",
+      "percentage": "70%",
+      "subjects": "PCM",
+      "location": "Goa",
+      "dates": "2018-2019"
+    }
+  ]
+}
